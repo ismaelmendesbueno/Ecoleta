@@ -40,7 +40,7 @@ body::after {
     display: flex;
 
     width: 20px;
-    height: 2main 
+    height: 2vmax;
 }
 
 main {
